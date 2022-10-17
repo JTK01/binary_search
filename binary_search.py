@@ -27,4 +27,4 @@ result = binary_ban(array,target,0,N-1) #binary_jae & binary_ban both work!!
 if result == None:
     print("찾는게 없네용~")
 else:
-    print(str(result + 1)+"번쨰에 있네용~")
+    print(str(result + 1)+"번째에 있네용~")
